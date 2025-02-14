@@ -1,0 +1,11 @@
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Domain\FadakTest.Domain\bin\Debug\net8.0\FadakTest.Domain.deps.json
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Domain\FadakTest.Domain\bin\Debug\net8.0\FadakTest.Domain.dll
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Domain\FadakTest.Domain\bin\Debug\net8.0\FadakTest.Domain.pdb
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Domain\FadakTest.Domain\obj\Debug\net8.0\FadakTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Domain\FadakTest.Domain\obj\Debug\net8.0\FadakTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Domain\FadakTest.Domain\obj\Debug\net8.0\FadakTest.Domain.AssemblyInfo.cs
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Domain\FadakTest.Domain\obj\Debug\net8.0\FadakTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Domain\FadakTest.Domain\obj\Debug\net8.0\FadakTest.Domain.dll
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Domain\FadakTest.Domain\obj\Debug\net8.0\refint\FadakTest.Domain.dll
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Domain\FadakTest.Domain\obj\Debug\net8.0\FadakTest.Domain.pdb
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Domain\FadakTest.Domain\obj\Debug\net8.0\ref\FadakTest.Domain.dll

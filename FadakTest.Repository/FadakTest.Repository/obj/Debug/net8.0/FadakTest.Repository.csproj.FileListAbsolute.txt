@@ -1,0 +1,17 @@
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\bin\Debug\net8.0\FadakTest.Repository.deps.json
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\bin\Debug\net8.0\FadakTest.Repository.runtimeconfig.json
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\bin\Debug\net8.0\FadakTest.Repository.dll
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\bin\Debug\net8.0\FadakTest.Repository.pdb
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\bin\Debug\net8.0\FadakTest.Domain.dll
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\bin\Debug\net8.0\FadakTest.Domain.pdb
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\obj\Debug\net8.0\FadakTest.Repository.csproj.AssemblyReference.cache
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\obj\Debug\net8.0\FadakTest.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\obj\Debug\net8.0\FadakTest.Repository.AssemblyInfoInputs.cache
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\obj\Debug\net8.0\FadakTest.Repository.AssemblyInfo.cs
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\obj\Debug\net8.0\FadakTest.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\obj\Debug\net8.0\FadakTes.D4ADDD26.Up2Date
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\obj\Debug\net8.0\FadakTest.Repository.dll
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\obj\Debug\net8.0\refint\FadakTest.Repository.dll
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\obj\Debug\net8.0\FadakTest.Repository.pdb
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\obj\Debug\net8.0\FadakTest.Repository.genruntimeconfig.cache
+C:\Users\Captain\Desktop\FadakTest\FadakTest.Repository\FadakTest.Repository\obj\Debug\net8.0\ref\FadakTest.Repository.dll

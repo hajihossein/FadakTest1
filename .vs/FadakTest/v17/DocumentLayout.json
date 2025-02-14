@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Captain\\Desktop\\FadakTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF38154-4F65-4254-A83E-ED5C06E6174A}|FadakTest.Repository\\FadakTest.Repository\\FadakTest.Repository.csproj|c:\\users\\captain\\desktop\\fadaktest\\fadaktest.repository\\fadaktest.repository\\migrations\\20250214155223_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF38154-4F65-4254-A83E-ED5C06E6174A}|FadakTest.Repository\\FadakTest.Repository\\FadakTest.Repository.csproj|solutionrelative:fadaktest.repository\\fadaktest.repository\\migrations\\20250214155223_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C55053C-C474-4E86-8A7A-DDD796F62F99}|FadakTest\\FadakTest.csproj|c:\\users\\captain\\desktop\\fadaktest\\fadaktest\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C55053C-C474-4E86-8A7A-DDD796F62F99}|FadakTest\\FadakTest.csproj|solutionrelative:fadaktest\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C55053C-C474-4E86-8A7A-DDD796F62F99}|FadakTest\\FadakTest.csproj|c:\\users\\captain\\desktop\\fadaktest\\fadaktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C55053C-C474-4E86-8A7A-DDD796F62F99}|FadakTest\\FadakTest.csproj|solutionrelative:fadaktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C55053C-C474-4E86-8A7A-DDD796F62F99}|FadakTest\\FadakTest.csproj|c:\\users\\captain\\desktop\\fadaktest\\fadaktest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C55053C-C474-4E86-8A7A-DDD796F62F99}|FadakTest\\FadakTest.csproj|solutionrelative:fadaktest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250214155223_CreateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest.Repository\\FadakTest.Repository\\Migrations\\20250214155223_CreateDatabase.cs",
+              "RelativeDocumentMoniker": "FadakTest.Repository\\FadakTest.Repository\\Migrations\\20250214155223_CreateDatabase.cs",
+              "ToolTip": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest.Repository\\FadakTest.Repository\\Migrations\\20250214155223_CreateDatabase.cs",
+              "RelativeToolTip": "FadakTest.Repository\\FadakTest.Repository\\Migrations\\20250214155223_CreateDatabase.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:52:23.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest\\Program.cs",
+              "RelativeDocumentMoniker": "FadakTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest\\Program.cs",
+              "RelativeToolTip": "FadakTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:51:28.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest\\appsettings.json",
+              "RelativeDocumentMoniker": "FadakTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest\\appsettings.json",
+              "RelativeToolTip": "FadakTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T15:51:00.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "FadakTest\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "FadakTest\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:50:54.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
