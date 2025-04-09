@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FadakTest.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1b16a61383cfe3b0193ec59132120054c8ec60f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FadakTest.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FadakTest.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

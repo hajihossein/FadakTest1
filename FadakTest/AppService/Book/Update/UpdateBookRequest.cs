@@ -1,6 +1,8 @@
-﻿namespace FadakTest.AppService.Book.Update
+﻿using MediatR;
+
+namespace FadakTest.AppService.Book.Update
 {
-    public class UpdateBookRequest : BaseRequest
+    public class UpdateBookRequest : BaseRequest, IRequest<UpdateBookResponse>
     {
         public Guid Id { get; set; }
         public string Name { get; set; }

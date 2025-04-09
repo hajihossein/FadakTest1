@@ -1,6 +1,8 @@
-﻿namespace FadakTest.AppService.Author.Update
+﻿using MediatR;
+
+namespace FadakTest.AppService.Author.Update
 {
-    public class UpdateAuthorRequest : BaseRequest
+    public class UpdateAuthorRequest : BaseRequest, IRequest<UpdateAuthorResponse>
     {
         public Guid Id { get; set; }
         public string Name { get; set; }

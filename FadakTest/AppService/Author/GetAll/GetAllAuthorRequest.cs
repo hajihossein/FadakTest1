@@ -1,6 +1,8 @@
-﻿namespace FadakTest.AppService.Author.GetAll
+﻿using MediatR;
+
+namespace FadakTest.AppService.Author.GetAll
 {
-    public class GetAllAuthorRequest : BaseRequest
+    public class GetAllAuthorRequest : BaseRequest, IRequest<GetAllAuthorResponse>
     {
     }
 }

@@ -2,10 +2,11 @@
 using FadakTest.AppService.Book.Update;
 using FadakTest.Domain.Exceptions;
 using FadakTest.Repository;
+using MediatR;
 
 namespace FadakTest.AppService.Author.Update
 {
-    public class UpdateAuthorRequestHandler
+    public class UpdateAuthorRequestHandler : IRequestHandler<UpdateAuthorRequest,UpdateAuthorResponse>
     {
         protected readonly IFadakTestDbContextProvider _contextProvider;
         public UpdateAuthorRequestHandler(IFadakTestDbContextProvider contextProvider)
@@ -13,7 +14,25 @@ namespace FadakTest.AppService.Author.Update
             _contextProvider = contextProvider;
         }
 
-        public async Task<UpdateAuthorResponse> Handle(UpdateAuthorRequest request)
+        //public async Task<UpdateAuthorResponse> Handle(UpdateAuthorRequest request)
+        //{
+        //    using var context = _contextProvider.GetContext().Context;
+        //    if (context.Authors.Any(x => x.Name == request.Name))
+        //        throw new FadakTestException(ErrorCode.DuplicatedName, "کتابی با این نام وجود دارد.");
+
+        //    var author = context.Authors.Single(b => b.Id == request.Id);
+        //    author.Name = request.Name;
+
+
+        //    await context.SaveChangesAsync();
+
+        //    return new UpdateAuthorResponse
+        //    {
+        //        Author = author
+        //    };
+        //}
+
+        public async Task<UpdateAuthorResponse> Handle(UpdateAuthorRequest request, CancellationToken cancellationToken)
         {
             using var context = _contextProvider.GetContext().Context;
             if (context.Authors.Any(x => x.Name == request.Name))

@@ -989,7 +989,10 @@
       },
       "FadakTest.Domain/1.0.0": {
         "runtime": {
-          "FadakTest.Domain.dll": {}
+          "FadakTest.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "FadakTest.Repository/1.0.0": {
@@ -1000,7 +1003,10 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "FadakTest.Repository.dll": {}
+          "FadakTest.Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -1,6 +1,8 @@
-﻿namespace FadakTest.AppService.Author.GetById
+﻿using MediatR;
+
+namespace FadakTest.AppService.Author.GetById
 {
-    public class GetByIdAuthorRequest : BaseRequest
+    public class GetByIdAuthorRequest : BaseRequest, IRequest<GetByIdAuthorResponse>
     {
         public Guid Id { get; set; }
     }

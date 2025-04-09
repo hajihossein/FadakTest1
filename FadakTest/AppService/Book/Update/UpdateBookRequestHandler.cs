@@ -1,9 +1,10 @@
 ﻿using FadakTest.Domain.Exceptions;
 using FadakTest.Repository;
+using MediatR;
 
 namespace FadakTest.AppService.Book.Update
 {
-    public class UpdateBookRequestHandler
+    public class UpdateBookRequestHandler : IRequestHandler<UpdateBookRequest, UpdateBookResponse>
     {
         protected readonly IFadakTestDbContextProvider _contextProvider;
         public UpdateBookRequestHandler(IFadakTestDbContextProvider contextProvider)

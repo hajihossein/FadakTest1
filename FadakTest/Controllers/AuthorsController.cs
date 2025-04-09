@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FadakTest.Controllers
 {
+    [Route("api/authors")]
+    [ApiController]
     public class AuthorsController : Controller
     {
         private readonly IMediatRSenderService _mediatRSenderService;

@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FadakTest.Controllers
 {
+    [Route("api/books")]
+    [ApiController]
     public class BooksController : Controller
     {
         private readonly IMediatRSenderService _mediatRSenderService;

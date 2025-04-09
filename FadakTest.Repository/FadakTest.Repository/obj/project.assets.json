@@ -4101,23 +4101,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Captain\\.nuget\\packages\\": {},
+    "C:\\Users\\HOSSEIN\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest.Repository\\FadakTest.Repository\\FadakTest.Repository.csproj",
+      "projectUniqueName": "E:\\Fadk Test\\FadakTest.Repository\\FadakTest.Repository\\FadakTest.Repository.csproj",
       "projectName": "FadakTest.Repository",
-      "projectPath": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest.Repository\\FadakTest.Repository\\FadakTest.Repository.csproj",
-      "packagesPath": "C:\\Users\\Captain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest.Repository\\FadakTest.Repository\\obj\\",
+      "projectPath": "E:\\Fadk Test\\FadakTest.Repository\\FadakTest.Repository\\FadakTest.Repository.csproj",
+      "packagesPath": "C:\\Users\\HOSSEIN\\.nuget\\packages\\",
+      "outputPath": "E:\\Fadk Test\\FadakTest.Repository\\FadakTest.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Captain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HOSSEIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4126,6 +4129,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -4133,8 +4137,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest.Domain\\FadakTest.Domain\\FadakTest.Domain.csproj": {
-              "projectPath": "C:\\Users\\Captain\\Desktop\\FadakTest\\FadakTest.Domain\\FadakTest.Domain\\FadakTest.Domain.csproj"
+            "E:\\Fadk Test\\FadakTest.Domain\\FadakTest.Domain\\FadakTest.Domain.csproj": {
+              "projectPath": "E:\\Fadk Test\\FadakTest.Domain\\FadakTest.Domain\\FadakTest.Domain.csproj"
             }
           }
         }
@@ -4195,7 +4199,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

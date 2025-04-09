@@ -1,10 +1,11 @@
 ﻿using AutoMapper;
 using FadakTest.Domain.Exceptions;
 using FadakTest.Repository;
+using MediatR;
 
 namespace FadakTest.AppService.Book.Create
 {
-    public class CreateBookRequestHandler
+    public class CreateBookRequestHandler : IRequestHandler<CreateBookRequest,CreateBookResponse>
     {
         private readonly IFadakTestDbContextProvider _contextProvider;
 

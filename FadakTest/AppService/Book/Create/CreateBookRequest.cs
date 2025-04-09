@@ -1,6 +1,8 @@
-﻿namespace FadakTest.AppService.Book.Create
+﻿using MediatR;
+
+namespace FadakTest.AppService.Book.Create
 {
-    public class CreateBookRequest : BaseRequest
+    public class CreateBookRequest : BaseRequest ,IRequest<CreateBookResponse>
     {
         public string Name { get; set; }
         public string Title{ get; set; }

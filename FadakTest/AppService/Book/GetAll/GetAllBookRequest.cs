@@ -1,6 +1,8 @@
-﻿namespace FadakTest.AppService.Book.GetAll
+﻿using MediatR;
+
+namespace FadakTest.AppService.Book.GetAll
 {
-    public class GetAllBookRequest : BaseRequest
+    public class GetAllBookRequest : BaseRequest,IRequest<GetAllBookResponse>
     {
     }
 }

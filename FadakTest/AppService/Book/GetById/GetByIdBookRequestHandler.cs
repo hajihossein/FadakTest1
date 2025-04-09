@@ -2,10 +2,11 @@
 using FadakTest.AppService.Book.Create;
 using FadakTest.Domain.Exceptions;
 using FadakTest.Repository;
+using MediatR;
 
 namespace FadakTest.AppService.Book.GetById
 {
-    public class GetByIdBookRequestHandler
+    public class GetByIdBookRequestHandler :IRequestHandler<GetByIdBookRequest,GetByIdBookResponse>
     {
         private readonly IFadakTestDbContextProvider _contextProvider;
         public GetByIdBookRequestHandler(IFadakTestDbContextProvider contextProvider, IMapper mapper)
